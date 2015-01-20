@@ -15,7 +15,7 @@ The use case is running HTTP(S) and SSH on the same port.
 Usage
 -----
 
-To Build:
+[Download release](https://github.com/jamescun/switcher/releases) or Build:
 
     make
 
