@@ -1,4 +1,4 @@
-![Switcher Logo](https://i.imgur.com/YL46yH8.png)
+![Switcher Logo](https://i.imgur.com/MMMYt4R.png)
 
 Switcher
 ========
@@ -59,7 +59,7 @@ To test SSH
 Why not sslh
 ------------
 
-Switcher is heavily influenced by (sslh)[https://github.com/yrutschle/sslh]. It started out as a learning exercise to discover how sslh worked and attempt an implementation in Go.
+Switcher is heavily influenced by [sslh](https://github.com/yrutschle/sslh). It started out as a learning exercise to discover how sslh worked and attempt an implementation in Go.
 
 The result is useful in its own right through use of Go's interfaces for protocol matching (making adding new protocols trivial), and lightweight goroutines (instead of forking, which is more CPU intensive under load).
 
@@ -69,4 +69,4 @@ License
 
 3-Clause "Modified" BSD Licence.
 
-(License)[LICENSE]
+[License](LICENSE)
