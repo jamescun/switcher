@@ -1,4 +1,4 @@
-![Switcher Logo](https://i.imgur.com/MMMYt4R.png)
+<img src="https://i.imgur.com/Fo1W2rL.png" width="269" height="62" alt="Switcher"/>
 
 Switcher
 ========
