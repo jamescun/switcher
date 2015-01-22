@@ -13,7 +13,7 @@ var (
 )
 
 func usage() {
-	fmt.Println("Switcher 1.0.0")
+	fmt.Println("Switcher 1.0.1")
 	fmt.Println("usage: switcher [options]\n")
 
 	fmt.Println("Options:")
